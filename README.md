@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Axel.
 
-<!--
-**qAxelFT/qAxelFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently trying to get consistent in getting things done.
+Supposedly I'm a game developer but i havent finished any game project outside of your classic snake or space invaders.  
+I'll update this thing when I've released some projects and have something to say about them
 
-Here are some ideas to get you started:
+### Programming languages
+- Zig 🖤
+- Rust
+- C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=qAxelFT)](https://github.com/anuraghazra/github-readme-stats)
