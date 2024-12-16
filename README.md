@@ -10,4 +10,4 @@ I'll update this thing when I've released some projects and have something to sa
 - C
 
 ### Github Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=qAxelFT)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=qAxelFT&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
